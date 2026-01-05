@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.1.0.apk",
-  "release_notes": "- Fix missing transaction.dart import in accounts_screen"
+  "version": "2.2.0",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.2.0.apk",
+  "release_notes": "- Add UX improvements: currency conversion, projections, and withdrawal calculator"
 }
