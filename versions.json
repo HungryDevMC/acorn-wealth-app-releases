@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.3.0.apk",
-  "release_notes": "- Rework UX: simplified navigation and projections"
+  "version": "2.4.0",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.4.0.apk",
+  "release_notes": "- Remove friend system, add leaderboards and public profiles"
 }
