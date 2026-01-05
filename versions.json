@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.4.0.apk",
-  "release_notes": "- Remove friend system, add leaderboards and public profiles"
+  "version": "2.4.1",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.4.1.apk",
+  "release_notes": "- Add portfolio percentage leaderboard with time filters"
 }
