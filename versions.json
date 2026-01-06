@@ -1,5 +1,5 @@
 {
-  "version": "2.8.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.8.0.apk",
-  "release_notes": "- Fix TransactionType import prefix in data_provider.dart"
+  "version": "2.8.1",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.8.1.apk",
+  "release_notes": "• Fix import paths for AccountsScreen and RealEstateScreen\n• Fix auto-update release notes to show all changes since last version\n• Remove profile menu dropdown, navigate directly to profile screen\n• Fix performance calculation for users who started investing during the year\n• Fix TransactionType import prefix in data_provider.dart\n• Improve CI reliability: add Gradle caching, retries, and timeouts\n• Prioritize Alibaba Maven mirrors to avoid rate limiting\n• Remove conflicting Gradle init script - mirrors already in settings.gradle\n• Add Gradle init script to fix Maven Central 403 errors in CI\n• Add more Maven repository mirrors for CI reliability"
 }
