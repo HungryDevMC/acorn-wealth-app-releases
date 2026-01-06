@@ -1,5 +1,5 @@
 {
   "version": "2.7.0",
   "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.7.0.apk",
-  "release_notes": "- feat: Move Oak Circle to Social tab for easier access"
+  "release_notes": "- fix: Generate iOS project files in CI workflow"
 }
