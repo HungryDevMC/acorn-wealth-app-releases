@@ -1,5 +1,5 @@
 {
-  "version": "2.7.2",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.7.2.apk",
-  "release_notes": "- fix: Resolve iOS CocoaPods dependency conflicts"
+  "version": "2.7.3",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.7.3.apk",
+  "release_notes": "- Remove circle ranks legend and intermediate profile view"
 }
