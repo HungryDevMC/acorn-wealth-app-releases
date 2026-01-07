@@ -1,5 +1,5 @@
 {
-  "version": "2.10.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.10.0.apk",
-  "release_notes": "• Add holdings sort, toggle return type, remove profile stats\n• Simplify portfolio performance calculation and fix UI consistency\n• Make sharing options private by default, keep visibility public\n• Fix import paths for AccountsScreen and RealEstateScreen\n• Fix auto-update release notes to show all changes since last version\n• Remove profile menu dropdown, navigate directly to profile screen\n• Fix performance calculation for users who started investing during the year\n• Fix TransactionType import prefix in data_provider.dart\n• Improve CI reliability: add Gradle caching, retries, and timeouts\n• Prioritize Alibaba Maven mirrors to avoid rate limiting"
+  "version": "2.11.0",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.11.0.apk",
+  "release_notes": "• Fix build: remove remaining snapshot method references\n• Fix portfolio calculations to use transaction history only\n• Add holdings sort, toggle return type, remove profile stats\n• Simplify portfolio performance calculation and fix UI consistency\n• Make sharing options private by default, keep visibility public\n• Fix import paths for AccountsScreen and RealEstateScreen\n• Fix auto-update release notes to show all changes since last version\n• Remove profile menu dropdown, navigate directly to profile screen\n• Fix performance calculation for users who started investing during the year\n• Fix TransactionType import prefix in data_provider.dart"
 }
