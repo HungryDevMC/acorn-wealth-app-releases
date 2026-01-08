@@ -1,5 +1,5 @@
 {
-  "version": "2.16.8",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.16.8.apk",
-  "release_notes": "• Fix data persistence and add pull-to-refresh with price updates\n• Fix cash balance and USD profit calculation\n• Bump version to 2.16.6+41\n• Temporarily disable iOS build in CI\n• Fix compilation errors in Account.csv import\n• Fix buy/sell detection and add duplicate account cleanup\n• Fix Account.csv import to create assets from buy/sell history\n• Add Performance Breakdown screen for return verification\n• Fix Account.csv column mapping and add debug logging\n• Major improvements: auto-save, accurate gain/loss, new withdrawal calc"
+  "version": "2.16.9",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.16.9.apk",
+  "release_notes": "• Fix double-counting of deposits in account balance\n• Fix data persistence and add pull-to-refresh with price updates\n• Fix cash balance and USD profit calculation\n• Bump version to 2.16.6+41\n• Temporarily disable iOS build in CI\n• Fix compilation errors in Account.csv import\n• Fix buy/sell detection and add duplicate account cleanup\n• Fix Account.csv import to create assets from buy/sell history\n• Add Performance Breakdown screen for return verification\n• Fix Account.csv column mapping and add debug logging"
 }
