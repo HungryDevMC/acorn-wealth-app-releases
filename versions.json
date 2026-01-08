@@ -1,5 +1,5 @@
 {
-  "version": "2.16.1",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.16.1.apk",
-  "release_notes": "• Fix Account.csv column mapping and add debug logging\n• Major improvements: auto-save, accurate gain/loss, new withdrawal calc\n• Fix persistence and prediction issues\n• Bump version to 2.15.0+33\n• Fix data wipe on app start and investment account double-counting\n• Add data management screen to clean up orphaned data\n• Fix net worth chart, add portfolio return line to projection\n• Fix stock doubling, add real estate rental tracking, improve withdrawal calculator\n• Fix build: remove remaining snapshot method references\n• Fix portfolio calculations to use transaction history only"
+  "version": "2.16.2",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.16.2.apk",
+  "release_notes": "• Add Performance Breakdown screen for return verification\n• Fix Account.csv column mapping and add debug logging\n• Major improvements: auto-save, accurate gain/loss, new withdrawal calc\n• Fix persistence and prediction issues\n• Bump version to 2.15.0+33\n• Fix data wipe on app start and investment account double-counting\n• Add data management screen to clean up orphaned data\n• Fix net worth chart, add portfolio return line to projection\n• Fix stock doubling, add real estate rental tracking, improve withdrawal calculator\n• Fix build: remove remaining snapshot method references"
 }
