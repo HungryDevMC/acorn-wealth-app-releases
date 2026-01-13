@@ -1,5 +1,5 @@
 {
-  "version": "2.17.9",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.17.9.apk",
-  "release_notes": "• Fix Google Sign In on web and improve web layout\n• Bump Android minSdk to 23 for Firebase Auth 5.x\n• Add Firebase web configuration to fix blank page\n• Fix Firebase deploy - properly check if secret exists\n• Make Firebase Hosting deploy non-blocking\n• Fix web build - upgrade Firebase packages for Flutter 3.27\n• Add Firebase Hosting for web deployment\n• Fix TextDirection import - use ui.TextDirection.ltr\n• Add YTD, All Time, and per-year period selectors to Investment Performance\n• Add Investment Performance chart (gains only, excludes deposits)"
+  "version": "2.18.0",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.18.0.apk",
+  "release_notes": "• Update Google Sign In web client ID\n• Fix Google Sign In on web and improve web layout\n• Bump Android minSdk to 23 for Firebase Auth 5.x\n• Add Firebase web configuration to fix blank page\n• Fix Firebase deploy - properly check if secret exists\n• Make Firebase Hosting deploy non-blocking\n• Fix web build - upgrade Firebase packages for Flutter 3.27\n• Add Firebase Hosting for web deployment\n• Fix TextDirection import - use ui.TextDirection.ltr\n• Add YTD, All Time, and per-year period selectors to Investment Performance"
 }
