@@ -1,5 +1,5 @@
 {
-  "version": "2.18.7",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.18.7.apk",
-  "release_notes": "• Improve web UX and sync debugging\n• Fix web: skip local database and use Firestore directly\n• Fix connectivity check with dynamic typing for dart2js\n• Fix connectivity check to handle platform differences\n• Fix connectivity check for connectivity_plus v5+\n• Add web database support and responsive layout\n• Use correct OAuth client ID from acorn-capital project\n• Update Google Sign In web client ID\n• Fix Google Sign In on web and improve web layout\n• Bump Android minSdk to 23 for Firebase Auth 5.x"
+  "version": "2.18.8",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.18.8.apk",
+  "release_notes": "• Add PWA icons for web\n• Improve web UX and sync debugging\n• Fix web: skip local database and use Firestore directly\n• Fix connectivity check with dynamic typing for dart2js\n• Fix connectivity check to handle platform differences\n• Fix connectivity check for connectivity_plus v5+\n• Add web database support and responsive layout\n• Use correct OAuth client ID from acorn-capital project\n• Update Google Sign In web client ID\n• Fix Google Sign In on web and improve web layout"
 }
