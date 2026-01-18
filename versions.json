@@ -1,5 +1,5 @@
 {
-  "version": "2.25.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.25.0.apk",
-  "release_notes": "• feat: Add responsive layout for ultrawide screens\n• feat: Add Yearly Wrapped and FIRE Calculator\n• chore: Remove redundant artifact upload step\n• fix: Fix type mismatch in data_management_screen\n• feat: Add asset type detection and unrealized gains to CSV import\n• Fix stale data issues with automatic cleanup\n• Add debug logging and orphan cleanup for sync issues\n• Switch to explicit sync (Option B) - more reliable\n• Fix data migration and favicon\n• Implement real-time Firestore listeners for automatic sync"
+  "version": "2.26.0",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.26.0.apk",
+  "release_notes": "• fix: Multiple bug fixes for financial calculations and data sync\n• feat: Add responsive layout for ultrawide screens\n• feat: Add Yearly Wrapped and FIRE Calculator\n• chore: Remove redundant artifact upload step\n• fix: Fix type mismatch in data_management_screen\n• feat: Add asset type detection and unrealized gains to CSV import\n• Fix stale data issues with automatic cleanup\n• Add debug logging and orphan cleanup for sync issues\n• Switch to explicit sync (Option B) - more reliable\n• Fix data migration and favicon"
 }
