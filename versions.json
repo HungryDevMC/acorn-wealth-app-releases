@@ -1,5 +1,5 @@
 {
-  "version": "2.30.0",
-  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.30.0.apk",
-  "release_notes": "• fix: Correct financial calculations and add metric explanations\n• fix: Add app prefix to TransactionType enum references\n• refactor: Streamline app UX with unified Journey tab and simplified navigation\n• chore: Bump version to 2.28.0+75\n• feat: Add unified app experience with narrative-driven dashboard\n• chore: Bump version to 2.27.0+74\n• fix: Historical exchange rates, precision fixes, and code cleanup\n• fix: Multiple bug fixes for financial calculations and data sync\n• feat: Add responsive layout for ultrawide screens\n• feat: Add Yearly Wrapped and FIRE Calculator"
+  "version": "2.31.0",
+  "download_url": "https://github.com/HungryDevMC/acorn-wealth-app-releases/raw/main/acorn-capital-v2.31.0.apk",
+  "release_notes": "• fix: Use AssetType enum instead of non-existent category property\n• fix: Resolve compilation errors from UX restructure\n• chore: Bump version to 2.31.0+78\n• refactor: Unify UX with global period selection and centralized FIRE settings\n• fix: Correct financial calculations and add metric explanations\n• fix: Add app prefix to TransactionType enum references\n• refactor: Streamline app UX with unified Journey tab and simplified navigation\n• chore: Bump version to 2.28.0+75\n• feat: Add unified app experience with narrative-driven dashboard\n• chore: Bump version to 2.27.0+74"
 }
